@@ -1,0 +1,17 @@
+1000	ece
+1001	mech
+1002	cse
+1003	ise
+1004	civ
+1005	eee
+1006	res
+1007	tele
+1008	ter
+1009	tyu
+1010	biotech
+1011	ide
+1012	egd
+1013	Robotics
+1014	Science
+1015	Data
+1016	Architect
